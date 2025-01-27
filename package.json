@@ -44,7 +44,7 @@
       "react-app/jest",
       "airbnb",
       "prettier",
-      "babel"
+      "babel-eslint"
     ]
   },
   "browserslist": {
